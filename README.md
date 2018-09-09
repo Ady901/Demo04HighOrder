@@ -8,3 +8,7 @@ This will help you to write clean code and trust me these magical functions are 
 // Filter 
 // Reduce 
 // Map
+
+Video Tutorial Available: 
+
+https://youtu.be/vKhM9KiEqQ8
